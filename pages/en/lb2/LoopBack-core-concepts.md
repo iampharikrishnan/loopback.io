@@ -13,7 +13,7 @@ summary: An introduction to the most important concepts needed to understand Loo
 " %}
 
 <div style="float: right;">
-{% include image.html file="9830550.png" alt="Model inheritance diagram" caption="Model inheritance" max-width="400"%}
+{% include image.html file="9830550.png" alt="Model inheritance diagram" caption="Model inheritance" max-width="400" %}
 </div>
 
 ## Models
